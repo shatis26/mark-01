@@ -1,2 +1,2 @@
 Hello class
-My name is shatis
+My name is not shatis
